@@ -1,5 +1,9 @@
 # Sender
 
+<p align="center">
+  <img src=".github/logo.png" alt="sender logo" width="128" />
+</p>
+
 A VB.NET Windows Forms tool for sending a message over TCP.
 
 ## What it does
